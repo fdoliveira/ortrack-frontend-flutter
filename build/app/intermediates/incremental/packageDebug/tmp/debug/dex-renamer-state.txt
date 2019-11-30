@@ -1,0 +1,4 @@
+#Sat Nov 23 14:56:20 BRT 2019
+base.0=/Users/fdoliveira/Com/Projects/ortrack/ortrack-frontend-flutter/ortrack_frontend_flutter/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
